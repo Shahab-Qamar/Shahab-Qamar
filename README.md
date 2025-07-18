@@ -65,11 +65,6 @@ Created a browser extension integrated with **VirusTotal** to enhance secure fil
 - **CTFs**: Competing in platforms like HackTheBox and TryHackMe to hone my cybersecurity skills.  
 
 ---
-## 🕵️‍♂️ Current Missions
-- **Recon**: Developing [e.g., "a penetration testing framework for IoT devices"].  
-- **Training**: Mastering [e.g., "malware reverse engineering and advanced forensics"].  
-- **Collab**: Hunting for cybersecurity projects and CTF squads on HackTheBox and TryHackMe.  
-- **Target**: Elite ethical hacker status, securing the digital Ummah.
 
 
 <p align="center">
@@ -77,6 +72,12 @@ Created a browser extension integrated with **VirusTotal** to enhance secure fil
 </p>
 
 ---
+## 🕵️‍♂️ Current Missions
+- **Recon**: Developing [e.g., "a penetration testing framework for IoT devices"].  
+- **Training**: Mastering [e.g., "malware reverse engineering and advanced forensics"].  
+- **Collab**: Hunting for cybersecurity projects and CTF squads on HackTheBox and TryHackMe.  
+- **Target**: Elite ethical hacker status, securing the digital Ummah.
+
 ## Ping Me
 <p align="center">
   <a href="https://linkedin.com/in/shahab-qamar-b1624a286" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" title="LinkedIn"/></a>
