@@ -65,7 +65,14 @@ Created a browser extension integrated with **VirusTotal** to enhance secure fil
 - **CTFs**: Competing in platforms like HackTheBox and TryHackMe to hone my cybersecurity skills.  
 
 ---
+## Ping Me
+<p align="center">
+  <a href="https://linkedin.com/in/shahab-qamar-b1624a286" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" title="LinkedIn"/></a>
+</p>
 
+<p align="center">
+  I’m open to discussions on cybersecurity, collaborative projects, or CTF competitions. Let’s connect!
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ethical%20Hacking-2EA44F?style=for-the-badge" alt="Ethical Hacking"/>
@@ -78,11 +85,4 @@ Created a browser extension integrated with **VirusTotal** to enhance secure fil
 - **Collab**: Hunting for cybersecurity projects and CTF squads on HackTheBox and TryHackMe.  
 - **Target**: Elite ethical hacker status, securing the digital Ummah.
 
-## Ping Me
-<p align="center">
-  <a href="https://linkedin.com/in/shahab-qamar-b1624a286" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" title="LinkedIn"/></a>
-</p>
 
-<p align="center">
-  I’m open to discussions on cybersecurity, collaborative projects, or CTF competitions. Let’s connect!
-</p>
