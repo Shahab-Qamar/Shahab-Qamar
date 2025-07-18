@@ -74,12 +74,13 @@ Created a browser extension integrated with **VirusTotal** to enhance secure fil
   I’m open to discussions on cybersecurity, collaborative projects, or CTF competitions. Let’s connect!
 </p>
 
+
+---
+## 🕵️‍♂️ Current Missions
 <p align="center">
   <img src="https://img.shields.io/badge/Ethical%20Hacking-2EA44F?style=for-the-badge" alt="Ethical Hacking"/>
 </p>
 
----
-## 🕵️‍♂️ Current Missions
 - **Recon**: Developing [e.g., "a penetration testing framework for IoT devices"].  
 - **Training**: Mastering [e.g., "malware reverse engineering and advanced forensics"].  
 - **Collab**: Hunting for cybersecurity projects and CTF squads on HackTheBox and TryHackMe.  
