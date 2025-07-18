@@ -1,51 +1,5 @@
-# 🔒 As-Salamu Alaikum! I'm Shahab Qamar, Pakistan’s Cyber Ninja 🇵🇰
 
-<p align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="matrix hacker vibe" width="300"/>
-</p>
-
-<p align="center">
-  > **whoami**: A Cybersecurity Student from Pakistan, hacking the digital world with precision and faith.  
-  > **mission**: Penetration testing, digital forensics, and info security—building systems tougher than K2.  
-  > **status**: Fueled by nihari, chai, and a passion for ethical hacking. Ready to secure the net and own CTFs?  
-  As a proud Muslim, I wield code like a scimitar, guided by integrity and a vision to protect the Ummah’s digital frontier. Let’s dive into the matrix! 🌙
-</p>
-
----
-
-## 💾 whoami
-- **Arsenal**: Penetration Testing, Digital Forensics, Information Security, Secure Software Development.  
-- **Base**: Pakistan 🇵🇰, inspired by the vibrancy of Karachi and the strength of the Himalayas.  
-- **Faith**: Muslim, driven by discipline, knowledge, and ethical principles.  
-- **Hobbies**: Chess (checkmate strategist), sketching (art as vibrant as a Lahore bazaar), and CTFs (flag-hunting ninja).  
-- **Objective**: Become an elite ethical hacker, defending digital realms with unbreakable code.  
-
----
-
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/shahab-qamar-b1624a286/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" title="LinkedIn"/></a>
-  <a href="https://yourportfolio.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/domain.png" alt="portfolio" width="40" height="40" title="Portfolio"/></a>
-  <a href="mailto:your.email@example.com" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/email.png" alt="email" width="40" height="40" title="Email"/></a>
-</p>
-
-<p align="center">
-  > **ping me**: Open to cybersecurity collabs, CTF battles, or securing the next big project. Let’s make the internet a fortress! 🔐
-</p>
-
----
-
-## 🛠️ Cyber Arsenal
-
-
-
-
-
-
-
-
-
-# Assalam u Alaikum! I'm Shahab, a Cybersecurity from Pakistan 🇵🇰
+# Assalam u Alaikum! I'm Shahab, a Cybersecurity Ethusiast from Pakistan 🇵🇰
 
 <p align="center">
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="matrix hacker vibe" width="300"/>
@@ -60,7 +14,7 @@
 ## WhoamI ?
 - **Interest**: Penetration Testing, Digital Forensics, Information Security, and Secure Software Development.  
 - **Location**: Pakistan 🇵🇰, inspired by the resilience and vibrancy of my homeland.  
-- **Interests**: Chess, sketching, and competing in Capture The Flag (CTF) challenges to sharpen my skills. 
+- **Interests**: Offensive Defensive , Capture The Flag (CTF) challenges to sharpen my skills. 
 - **Goal:** To become an elite ethical hacker who builds and defends secure digital worlds 
 
 ## My Arsenal
@@ -92,8 +46,8 @@ Developed a sophisticated steganography tool using the **Discrete Cosine Transfo
 **Key Features**: High-capacity data hiding, robust error detection, and compatibility with standard image formats.
 
 ### Management Systems in C++ and Java
-Designed and implemented secure management systems (e.g., inventory, library, or student records) using **C++** and **Java**. These systems prioritize data integrity, efficient processing, and secure storage to prevent unauthorized access.  
-**Key Features**: Modular architecture, secure data handling, and optimized performance.
+Designed and implemented secure management systems (e.g., inventory, library, or student records) using **C++** and **Java**.  
+**Key Features**: Modular architecture, secure data handling, and optimized performance and Good Interface.
 
 ### Secure Downloader Extension
 Created a browser extension integrated with **VirusTotal** to enhance secure file downloading. The tool scans links for malicious content, ensures safe downloads, and generates comprehensive threat reports for user awareness. Built with JavaScript.  
