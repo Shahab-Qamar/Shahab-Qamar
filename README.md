@@ -39,6 +39,40 @@
 
 ---
 
+## ⚔️ Cyber Arsenal
+*Armed with the finest tools to hack, defend, and dissect the internet.*
+
+<p align="center">
+  <!-- Recon & Scanning -->
+  <img src="https://img.shields.io/badge/Nmap-00599C?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0zOTcuMTkgMTIzLjEyTDQ4MC4zOSA4Ni4wN0w0NDAuMTcgMzAuNjFMNDAwLjY3IDExNC45MUwzOTcuMTkgMTIzLjEyWiIvPjwvc3ZnPg==" alt="Nmap" title="Mapping Networks Like a Cyber Cartographer"/>
+  <img src="https://img.shields.io/badge/Shodan-111?logo=shodan&style=for-the-badge&color=222222&labelColor=555555" alt="Shodan" title="The Internet’s Dark Search Engine"/>
+  <img src="https://img.shields.io/badge/Maltego-003366?logo=maltego&logoColor=white&style=for-the-badge&color=222222" alt="Maltego" title="Connecting the Dots of Doom"/>
+  
+  <!-- Exploitation -->
+  <img src="https://img.shields.io/badge/Burp%20Suite-F87C00?logo=burpsuite&style=for-the-badge&color=222222&labelColor=ffaa33" alt="Burp Suite" title="Web Apps Beg for Mercy"/>
+  <img src="https://img.shields.io/badge/Metasploit-2C3E50?logo=metasploit&style=for-the-badge&color=222222" alt="Metasploit" title="Pwnage in a Framework"/>
+  <img src="https://img.shields.io/badge/Hydra-green?logo=hydra&style=for-the-badge&color=222222&labelColor=33ff66" alt="Hydra" title="Cracking Passwords Like Eggs"/>
+  
+  <!-- Forensics & Analysis -->
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge&color=222222" alt="Wireshark" title="Sniffing Packets Like a Bloodhound"/>
+  <img src="https://img.shields.io/badge/Autopsy-blue?logo=autopsy&style=for-the-badge&color=222222&labelColor=1E90FF" alt="Autopsy" title="Digital Crime Scene Investigator"/>
+  
+  <!-- Password Cracking -->
+  <img src="https://img.shields.io/badge/John%20the%20Ripper-yellow?logo=john-the-ripper&style=for-the-badge&color=222222&labelColor=FFD700" alt="John the Ripper" title="Ripping Hashes to Shreds"/>
+  
+  <!-- Utilities & Scripting -->
+  <img src="https://img.shields.io/badge/Netcat-black?logo=netcat&style=for-the-badge&color=222222&labelColor=555555" alt="Netcat" title="The Swiss Army Knife of Networking"/>
+  <img src="https://img.shields.io/badge/Bash%20Scripting-121011?logo=gnu-bash&logoColor=white&style=for-the-badge&color=222222" alt="Bash" title="Scripting Cyber Sorcery"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white&style=for-the-badge&color=222222" alt="Kali Linux" title="The Hacker’s Playground"/>
+  
+  <!-- Mindset & Glory -->
+  <img src="https://img.shields.io/badge/Pentester’s%20Mindset-FF0000?logo=security&style=for-the-badge&color=222222&labelColor=ff5555" alt="Mindset" title="Think Like an Attacker, Defend Like a Fortress"/>
+  <img src="https://img.shields.io/badge/CTF%20Warrior-FFD700?logo=flag&style=for-the-badge&color=222222&labelColor=ffaa33" alt="CTF" title="Capture All the Flags!"/>
+</p>
+
+---
+
+
 ## Projects
 
 ### DCT Steganography Tool
@@ -85,51 +119,3 @@ Created a browser extension integrated with **VirusTotal** to enhance secure fil
 - **Training**: Mastering [e.g., "malware reverse engineering and advanced forensics"].  
 - **Collab**: Hunting for cybersecurity projects and CTF squads on HackTheBox and TryHackMe.  
 - **Target**: Elite ethical hacker status, securing the digital Ummah.
-
-🏆 Certifications & Badges of Glory
-*Certified to break in, secure, and conquer the digital realm!*
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CEH%20v13%20(Certified%20Ethical%20Hacker)-black?logo=ceh&logoColor=red&style=for-the-badge&labelColor=ff5555&color=222222" alt="CEH v13" title="Master of Ethical Hacking Chaos"/>
-  <img src="https://img.shields.io/badge/TryHackMe%20Learner-2EA44F?logo=tryhackme&logoColor=white&style=for-the-badge&labelColor=44ff88" alt="TryHackMe" title="Pwnin' Challenges Like a Pro"/>
-  <img src="https://img.shields.io/badge/Hack%20The%20Box%20Player-111928?logo=hackthebox&logoColor=green&style=for-the-badge&labelColor=33ff66" alt="Hack The Box" title="Rooting Boxes for Breakfast"/>
-  <img src="https://img.shields.io/badge/Digital%20Forensics%20Training-1E90FF?logo=autopsy&style=for-the-badge&color=222222&labelColor=1E90FF" alt="Forensics" title="Unraveling Digital Mysteries"/>
-  <img src="https://img.shields.io/badge/Secure%20Coding%20&%20AppSec-FF4500?logo=owasp&style=for-the-badge&color=222222&labelColor=ffaa33" alt="AppSec" title="Building Fortresses in Code"/>
-  <img src="https://img.shields.io/badge/Certified%20Packet%20Slinger-FFD700?style=for-the-badge&color=222222&labelColor=ffaa33" alt="Packet Slinger" title="Crafting Packets Like a Wizard"/>
-  <img src="https://img.shields.io/badge/OSCP%20(In%20Progress)-FF0000?logo=offensive-security&logoColor=white&style=for-the-badge&labelColor=ff5555" alt="OSCP" title="Try Harder, Always"/>
-</p>
-
----
-
-## ⚔️ Cyber Arsenal: Tools of Digital Domination
-*Armed with the finest tools to hack, defend, and dissect the internet.*
-
-<p align="center">
-  <!-- Recon & Scanning -->
-  <img src="https://img.shields.io/badge/Nmap-00599C?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0zOTcuMTkgMTIzLjEyTDQ4MC4zOSA4Ni4wN0w0NDAuMTcgMzAuNjFMNDAwLjY3IDExNC45MUwzOTcuMTkgMTIzLjEyWiIvPjwvc3ZnPg==" alt="Nmap" title="Mapping Networks Like a Cyber Cartographer"/>
-  <img src="https://img.shields.io/badge/Shodan-111?logo=shodan&style=for-the-badge&color=222222&labelColor=555555" alt="Shodan" title="The Internet’s Dark Search Engine"/>
-  <img src="https://img.shields.io/badge/Maltego-003366?logo=maltego&logoColor=white&style=for-the-badge&color=222222" alt="Maltego" title="Connecting the Dots of Doom"/>
-  
-  <!-- Exploitation -->
-  <img src="https://img.shields.io/badge/Burp%20Suite-F87C00?logo=burpsuite&style=for-the-badge&color=222222&labelColor=ffaa33" alt="Burp Suite" title="Web Apps Beg for Mercy"/>
-  <img src="https://img.shields.io/badge/Metasploit-2C3E50?logo=metasploit&style=for-the-badge&color=222222" alt="Metasploit" title="Pwnage in a Framework"/>
-  <img src="https://img.shields.io/badge/Hydra-green?logo=hydra&style=for-the-badge&color=222222&labelColor=33ff66" alt="Hydra" title="Cracking Passwords Like Eggs"/>
-  
-  <!-- Forensics & Analysis -->
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge&color=222222" alt="Wireshark" title="Sniffing Packets Like a Bloodhound"/>
-  <img src="https://img.shields.io/badge/Autopsy-blue?logo=autopsy&style=for-the-badge&color=222222&labelColor=1E90FF" alt="Autopsy" title="Digital Crime Scene Investigator"/>
-  
-  <!-- Password Cracking -->
-  <img src="https://img.shields.io/badge/John%20the%20Ripper-yellow?logo=john-the-ripper&style=for-the-badge&color=222222&labelColor=FFD700" alt="John the Ripper" title="Ripping Hashes to Shreds"/>
-  
-  <!-- Utilities & Scripting -->
-  <img src="https://img.shields.io/badge/Netcat-black?logo=netcat&style=for-the-badge&color=222222&labelColor=555555" alt="Netcat" title="The Swiss Army Knife of Networking"/>
-  <img src="https://img.shields.io/badge/Bash%20Scripting-121011?logo=gnu-bash&logoColor=white&style=for-the-badge&color=222222" alt="Bash" title="Scripting Cyber Sorcery"/>
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white&style=for-the-badge&color=222222" alt="Kali Linux" title="The Hacker’s Playground"/>
-  
-  <!-- Mindset & Glory -->
-  <img src="https://img.shields.io/badge/Pentester’s%20Mindset-FF0000?logo=security&style=for-the-badge&color=222222&labelColor=ff5555" alt="Mindset" title="Think Like an Attacker, Defend Like a Fortress"/>
-  <img src="https://img.shields.io/badge/CTF%20Warrior-FFD700?logo=flag&style=for-the-badge&color=222222&labelColor=ffaa33" alt="CTF" title="Capture All the Flags!"/>
-</p>
-
----
