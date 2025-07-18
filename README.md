@@ -59,18 +59,6 @@ Created a browser extension integrated with **VirusTotal** to enhance secure fil
 
 ---
 
-## GitHub Contributions
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahab-qamar-b1624a286&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahab-qamar-b1624a286&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <i>Consistent contributions in cybersecurity and software development projects.</i>
-</p>
-
----
-
 ## 🎮 Off the Grid
 - **Chess**: Strategizing and planning with precision, both on the board and in code.  
 - **Sketching**: Creating detailed artwork.  
